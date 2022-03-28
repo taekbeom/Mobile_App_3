@@ -24,5 +24,9 @@
             android:id="@+id/browser"
             android:icon="@android:drawable/arrow_up_float"
             android:title="@string/menu_browser" />
+        <item
+            android:id="@+id/musicFragment"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="@string/menu_music" />
     </group>
 </menu>
